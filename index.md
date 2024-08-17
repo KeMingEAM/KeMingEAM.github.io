@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://wusiyuan.com/wusiyuan.jpg" class="floatpic" width="360" height="480">
+file:///C:/Users/42456/Pictures/%E5%AD%A6%E4%BF%A1%E7%BD%911%E5%AF%B8%E7%85%A7.jpg
 
-Here is **SiYuan Wu (KeMing-EAM, 伍思源)**.
+Here is **SiYuan Wu (KeMingEAM, 伍思源)**.
   I am a student, studying in the School of Economics, Guizhou University of Finance and Economics. My research fields include agricultural and forestry economic management, sociology. My research interests include tea industry, ecological wetland compensation, and social work.
 
 ##Honors And Awards
