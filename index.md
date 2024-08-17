@@ -25,6 +25,8 @@ Here is **SiYuan Wu (KeMing-EAM, 伍思源)**.
 - 2022,Tsinghua University graduate Practice detachment bronze Award member
 - 2023,Tsinghua University student Social Practice Annual meeting for the first · Material · Precision instrument · Medicine joint branch gold medal team member
 
+---
+
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18275352031@163.com*
 
 ## Academic Background
@@ -36,7 +38,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## Research Interests
-
 - Sociology of family
 - Intimate relationship
 - Tea industry marketing and planning
@@ -46,8 +47,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 -[1]Chen Y, Wu S Y. Research on realization and improvement of ecological industry value of wetland in Guizhou [J]. Farm economic management.,2024(03):12-15.
 
 ## Academic appointment
-2021-,China Research Association of Selective Method and Economic Mathematics，fellow.
-2022-,Researcher of Rural revitalization work station, Rural Revitalization Institute, Tsinghua University.
+- 2021-,China Research Association of Selective Method and Economic Mathematics，fellow.
+- 2022-,Researcher of Rural revitalization work station, Rural Revitalization Institute, Tsinghua University.
 
 My current research focuses on the influence mechanism of artificial intelligence on tea travel integration and its online research. My interest is ** Artificial intelligence ** and its application in ** Culture, agriculture and tourism research. ** In short, advanced technologies like AI and IVR are positively impacting everyone's life. I hope to dedicate my talents to this meaningful cause and bring benefits to society.
 ---
