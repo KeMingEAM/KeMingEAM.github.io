@@ -48,7 +48,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 -[1]Chen Y, Wu S Y. Research on realization and improvement of ecological industry value of wetland in Guizhou [J]. Farm economic management.,2024(03):12-15.
 
 ## Academic appointment
-- 2021-,China Association for the Research of Superior Selection Method and Economic Mathematics，Fellow（SCOPE Fellow）
+- 2021-,Chinese Society of Optimization, Overall Planning and Economic Mathematics，Fellow（SCOPE Fellow）
 - 2022-,Researcher of Rural revitalization work station, Rural Revitalization Institute, Tsinghua University
 
 My current research focuses on the influence mechanism of artificial intelligence on tea travel integration and its online research. My interest is ** Artificial intelligence ** and its application in ** Culture, agriculture and tourism research. ** In short, advanced technologies like AI and IVR are positively impacting everyone's life. I hope to dedicate my talents to this meaningful cause and bring benefits to society.
