@@ -7,6 +7,7 @@ layout: page
 
 
 Here is **SiYuan Wu (KeMingEAM, 伍思源)**.
+
   I am a student, studying in the School of Economics, Guizhou University of Finance and Economics. My research fields include agricultural and forestry economic management, sociology. My research interests include tea industry, ecological wetland compensation, and social work.
 
 ##Honors And Awards
@@ -43,7 +44,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Tea industry marketing and planning
 - The transformation and upgrading of rural industries and the increase of farmers' income
 
-## Publications
+## Publications 
 -[1]Chen Y, Wu S Y. Research on realization and improvement of ecological industry value of wetland in Guizhou [J]. Farm economic management.,2024(03):12-15.
 
 ## Academic appointment
