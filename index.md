@@ -26,9 +26,8 @@ Here is **SiYuan Wu (KeMingEAM, 伍思源)**.
 - 2022,Tsinghua University graduate Practice detachment bronze Award member
 - 2023,Tsinghua University student Social Practice Annual meeting for the first · Material · Precision instrument · Medicine joint branch gold medal team member
 
+-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18275352031@163.com*
 ---
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *18275352031@163.com*
 
 ## Academic Background
 
